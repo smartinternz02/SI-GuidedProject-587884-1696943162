@@ -3,10 +3,7 @@
   ## Empathy Map
 ![image](https://github.com/smartinternz02/SI-GuidedProject-587884-1696943162/assets/96493008/ea226375-3dd2-4292-aae6-2a2e6637dd99)
 
-  ## Brainstorming
-  ## Proposed Solution
-  ## Solution Architecture
-  ## Dataflow
+
   ## Abstract
 It is crucially important to carefully consider whether a password has previously been leaked online or otherwise exposed to malicious attackers, because if a password has been compromised in this way, its security can no longer be relied upon or guaranteed. However, most existing methods and frameworks for evaluating the strength and resilience of passwords fail to take into account the potential that a given password may have already been leaked. Even in cases where leakage is considered, an impractical process of collecting, archiving, and continually cross-referencing massive corpuses of leaked passwords against new passwords would be required. This is simply not viable, especially for Internet of Things (IoT) devices and other equipment with low computing performance. Therefore, in this research paper, we put forth a novel alternative approach utilizing a deep learning model. To train this model, we assembled a comprehensive password dictionary by randomly sampling 133,447 words from seven diverse corpora, including Wikipedia and Korean language dictionaries. We then extracted three key features from each password entry, as well as a binary label indicating whether or not that password had been leaked. Using this labeled feature data, we successfully developed a lightweight deep learning model capable of predicting the likelihood of a password having been previously leaked based on its features. By packaging this trained model into a compact file, it can be deployed directly onto low-powered IoT devices and utilized to evaluate the security strength of new passwords right on the device. To validate the performance of our proposed model, we conducted an accuracy assessment experiment to measure how well it could predict password leakage. Encouragingly, the model achieved an accuracy rate of 99% on this predictive task.
 
@@ -101,7 +98,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the website live.
 
-### Coding & Solutioning
+### Coding & Solution
 Data Preprocessing
 The password data was preprocessed before being used to train the neural network 
 model. The raw passwords were cleaned by removing any spaces, special characters, 
@@ -135,7 +132,8 @@ monitor model performance during training.
 The model achieved a training accuracy of 85% and validation accuracy of 81% after 
 the full 5 epochs. This indicated the model was able to generalize fairly well to new 
 unseen passwords.
-### PERFORMANCE TESTING
+
+### Performance Testing
 The trained model was evaluated on the reserved 20% test set. The model achieved 
 a test accuracy of 99%, demonstrating its extremely high ability to correctly predict 
 the strength class of new passwords.
@@ -146,7 +144,8 @@ Overall, the deep learning model was able to almost classify password strength
 perfectly into multiple categories. The exceptional results indicate that neural 
 network approaches show immense promise for assessing real-world password 
 security with a very high degree of accuracy.
-### RESULTS
+
+### Results
 ![WhatsApp Image 2023-11-05 at 14 10 08_470cbab5](https://github.com/smartinternz02/SI-GuidedProject-587884-1696943162/assets/96493008/e6bde637-aa09-4a14-a174-a73de2ed2303)
 
 ### Conclusion 
