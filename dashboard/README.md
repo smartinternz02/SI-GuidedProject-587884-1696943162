@@ -1,4 +1,4 @@
-## 🔐 Monolith Password Manager Documentation
+## 🔐 Dashboard Documentation
 
 ### 1. Introduction
 
