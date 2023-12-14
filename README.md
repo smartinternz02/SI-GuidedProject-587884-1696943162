@@ -9,7 +9,7 @@
 	<img src="https://img.shields.io/badge/vercel_analytics-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Analytics"/>
 	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Version Control"/>
 	<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk Security"/>
-	
+	<img src="https://img.shields.io/badge/ml%20colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Colab"/>
 </p>
 
 
