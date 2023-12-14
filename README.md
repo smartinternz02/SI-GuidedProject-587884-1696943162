@@ -1,5 +1,7 @@
  <h1 align="center">🔐 Monolith Password Manager Documentation 🔐</h1>
-<h3 align="center"><a href"https://youtu.be/Tbqcxu5fYG">Demo Video: https://youtu.be/Tbqcxu5fYG</a></h3>
+<h3 align="center"><a href="https://youtu.be/Tbqcxu5fYG" target="_blank">Link to Video Demonstration: https://youtu.be/Tbqcxu5fYG</a></h3>
+
+
 
   ## Empathy Map
 ![image](https://github.com/smartinternz02/SI-GuidedProject-587884-1696943162/assets/96493008/ea226375-3dd2-4292-aae6-2a2e6637dd99)
