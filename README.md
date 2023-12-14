@@ -1,4 +1,4 @@
- <h1 align="center">🔐 Monolith Password Manager Documentation 🔐</h1>
+ <h1 align="center">🔐 Monolith Project Documentation 🔐</h1>
 
 <p align="center" style="padding-top: 10px;">
 	<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
