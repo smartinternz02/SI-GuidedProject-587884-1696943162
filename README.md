@@ -1,4 +1,5 @@
-# 🔐 Monolith Password Manager Documentation
+ <h1 align="center">🔐 Monolith Password Manager Documentation 🔐</h1>
+<h3 align="center"><a href"https://youtu.be/Tbqcxu5fYG">Demo Video: https://youtu.be/Tbqcxu5fYG</a></h3>
 
   ## Empathy Map
 ![image](https://github.com/smartinternz02/SI-GuidedProject-587884-1696943162/assets/96493008/ea226375-3dd2-4292-aae6-2a2e6637dd99)
@@ -202,7 +203,7 @@ In summary, the future of "Monolith" is promising and filled with opportunities 
 growth and refinement. This project report perspective underscores our dedication 
 to democratizing digital security for all. 
 
-### APPENDIX
+### Appendix
 
 Project Demo Link: https://youtu.be/Tbqcxu5fYG
 
