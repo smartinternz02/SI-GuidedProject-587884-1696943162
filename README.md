@@ -34,7 +34,7 @@ Monolith is a password manager application and a complete user data leak prevent
 ### Components / Solution Infrastructure
 
 These are the components of our solution (and where to find them):
-![Schematic](public/solution-infrastructure.png)
+![Schematic](https://raw.githubusercontent.com/NotSooShariff/password-manager/main/public/solution-infrastructures.png)
 
 
 ### 2. Getting Started
@@ -149,7 +149,7 @@ network approaches show immense promise for assessing real-world password
 security with a very high degree of accuracy.
 
 ### Results
-![WhatsApp Image 2023-11-05 at 14 10 08_470cbab5](https://github.com/smartinternz02/SI-GuidedProject-587884-1696943162/assets/96493008/e6bde637-aa09-4a14-a174-a73de2ed2303)
+![Dashboard Screenshot](https://github.com/smartinternz02/SI-GuidedProject-587884-1696943162/assets/96493008/e6bde637-aa09-4a14-a174-a73de2ed2303)
 
 ### Conclusion 
 In our pursuit to address the pressing issue of digital security for everyday 
