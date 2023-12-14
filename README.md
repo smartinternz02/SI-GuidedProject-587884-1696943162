@@ -1,5 +1,5 @@
  <h1 align="center">🔐 Monolith Password Manager Documentation 🔐</h1>
-<h3 align="center"><a href="https://youtu.be/Tbqcxu5fYG" target="_blank">Link to Video Demonstration: https://youtu.be/Tbqcxu5fYG</a></h3>
+<h3 align="center"><a href="https://youtu.be/Tbqcxu5fYG" target="_blank">Video Demonstration: https://youtu.be/Tbqcxu5fYG</a></h3>
 
 
 
