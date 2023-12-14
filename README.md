@@ -11,10 +11,10 @@
 	
 </p>
 
-<h4 align="center"><a href="https://youtu.be/Tbqcxu5fYG" target="_blank">Video Demonstration: https://youtu.be/Tbqcxu5fYG</a></h4>
 
 ![Dashboard Screenshot](https://github.com/smartinternz02/SI-GuidedProject-587884-1696943162/assets/96493008/e6bde637-aa09-4a14-a174-a73de2ed2303)
 
+<h3 align="center">📽️ Video Demonstration: <br/> <a href="https://youtu.be/Tbqcxu5fYG" target="_blank"> https://youtu.be/Tbqcxu5fYG</a></h3>
 
 
   ## Empathy Map
