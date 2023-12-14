@@ -1,8 +1,4 @@
  <h1 align="center">🔐 Monolith Password Manager Documentation 🔐</h1>
-<h3 align="center"><a href="https://youtu.be/Tbqcxu5fYG" target="_blank">Video Demonstration: https://youtu.be/Tbqcxu5fYG</a></h3>
-
-![Dashboard Screenshot](https://github.com/smartinternz02/SI-GuidedProject-587884-1696943162/assets/96493008/e6bde637-aa09-4a14-a174-a73de2ed2303)
-
 
 <p align="center" style="padding-top: 10px;">
 	<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
@@ -14,6 +10,11 @@
 	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Version Control"/>
 	
 </p>
+
+<h4 align="center"><a href="https://youtu.be/Tbqcxu5fYG" target="_blank">Video Demonstration: https://youtu.be/Tbqcxu5fYG</a></h4>
+
+![Dashboard Screenshot](https://github.com/smartinternz02/SI-GuidedProject-587884-1696943162/assets/96493008/e6bde637-aa09-4a14-a174-a73de2ed2303)
+
 
 
   ## Empathy Map
