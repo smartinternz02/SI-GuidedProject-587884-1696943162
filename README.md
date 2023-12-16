@@ -14,14 +14,14 @@
 </p>
 
 
-![Dashboard Screenshot](https://github.com/smartinternz02/SI-GuidedProject-587884-1696943162/assets/96493008/e6bde637-aa09-4a14-a174-a73de2ed2303)
+https://github.com/NotSooShariff/password-manager/assets/93514938/9a4ecf20-a898-4ea1-831f-a469b16069ff
 
-<h3 align="center">📽️ Video Demonstration: <br/> <a href="https://youtu.be/Tbqcxu5fYG" target="_blank"> https://youtu.be/Tbqcxu5fYG</a></h3>
+<h3 align="center">📽️ YouTube Link: <br/> <a href="https://www.youtube.com/watch?v=Tbqcxu5fYGg" target="_blank"> https://youtu.be/Tbqcxu5fYG</a></h3>
 
 
 
   ## Abstract
-It is crucially important to carefully consider whether a password has previously been leaked online or otherwise exposed to malicious attackers, because if a password has been compromised in this way, its security can no longer be relied upon or guaranteed. However, most existing methods and frameworks for evaluating the strength and resilience of passwords fail to take into account the potential that a given password may have already been leaked. Even in cases where leakage is considered, an impractical process of collecting, archiving, and continually cross-referencing massive corpuses of leaked passwords against new passwords would be required. This is simply not viable, especially for Internet of Things (IoT) devices and other equipment with low computing performance. Therefore, in this research paper, we put forth a novel alternative approach utilizing a deep learning model. To train this model, we assembled a comprehensive password dictionary by randomly sampling 133,447 words from seven diverse corpora, including Wikipedia and Korean language dictionaries. We then extracted three key features from each password entry, as well as a binary label indicating whether or not that password had been leaked. Using this labeled feature data, we successfully developed a lightweight deep learning model capable of predicting the likelihood of a password having been previously leaked based on its features. By packaging this trained model into a compact file, it can be deployed directly onto low-powered IoT devices and utilized to evaluate the security strength of new passwords right on the device. To validate the performance of our proposed model, we conducted an accuracy assessment experiment to measure how well it could predict password leakage. Encouragingly, the model achieved an accuracy rate of 99% on this predictive task.
+It is crucially important to carefully consider whether a password has previously been leaked online or otherwise exposed to malicious attackers because if a password has been compromised in this way, its security can no longer be relied upon or guaranteed. However, most existing methods and frameworks for evaluating the strength and resilience of passwords fail to take into account the potential that a given password may have already been leaked. Even in cases where leakage is considered, an impractical process of collecting, archiving, and continually cross-referencing massive corpora of leaked passwords against new passwords would be required. This is simply not viable, especially for Internet of Things (IoT) devices and other equipment with low computing performance. Therefore, in this research paper, we put forth a novel alternative approach utilizing a deep learning model. To train this model, we assembled a comprehensive password dictionary by randomly sampling 133,447 words from seven diverse corpora, including Wikipedia and Korean language dictionaries. We then extracted three key features from each password entry, as well as a binary label indicating whether or not that password had been leaked. Using this labeled feature data, we successfully developed a lightweight deep-learning model capable of predicting the likelihood of a password having been previously leaked based on its features. Packaging this trained model into a compact file, it can be deployed directly onto low-powered IoT devices and utilized to evaluate the security strength of new passwords right on the device. To validate the performance of our proposed model, we conducted an accuracy assessment experiment to measure how well it could predict password leakage. Encouragingly, the model achieved an accuracy rate of 99% on this predictive task.
 
   ## Empathy Map
 ![image](https://github.com/smartinternz02/SI-GuidedProject-587884-1696943162/assets/96493008/ea226375-3dd2-4292-aae6-2a2e6637dd99)
@@ -120,13 +120,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ### Coding & Solution
 Data Preprocessing
 The password data was preprocessed before being used to train the neural network 
-model. The raw passwords were cleaned by removing any spaces, special characters, 
+model. The raw passwords were cleaned by removing any spaces, or special characters, 
 and converting all text to lowercase. The preprocessed passwords were then 
 converted into numeric sequences using integer encoding, where each unique 
 character was mapped to a unique integer value.
 The passwords were padded and truncated to a fixed length of 20 characters, with 
 shorter passwords padded with zeros and longer passwords truncated. This allowed 
-the variable length passwords to be formatted into equal length sequences as 
+the variable-length passwords to be formatted into equal-length sequences as 
 required for input into the neural network model.
 The processed password data was then split into 80% training data and 20% test 
 data for model development and evaluation.
@@ -142,13 +142,13 @@ condensed feature vector
 • Dense layer - 128 nodes with ReLU activation function
 • Output layer - Softmax activated layer with 4 nodes for the 4 classes of 
 password strength
-The model was compiled with the Adam optimizer, categorical crossentropy loss 
+The model was compiled with the Adam optimizer, categorical cross-entropy loss 
 function, and accuracy evaluation metric.
 Model Training
 The model was trained for 5 epochs with a batch size of 64 passwords per batch. 
 The training data was shuffled each epoch. A validation split of 20% was used to 
 monitor model performance during training.
-The model achieved a training accuracy of 85% and validation accuracy of 81% after 
+The model achieved a training accuracy of 85% and a validation accuracy of 81% after 
 the full 5 epochs. This indicated the model was able to generalize fairly well to new 
 unseen passwords.
 
@@ -159,7 +159,7 @@ the strength class of new passwords.
 Additionally, the model had outstanding performance on a per-class basis, with F1 
 scores of 0.99 for weak passwords, 0.98 for moderate passwords, 0.97 for strong 
 passwords, and 0.95 for very strong passwords.
-Overall, the deep learning model was able to almost classify password strength 
+Overall, the deep learning model was able to classify password strength 
 perfectly into multiple categories. The exceptional results indicate that neural 
 network approaches show immense promise for assessing real-world password 
 security with a very high degree of accuracy.
@@ -187,7 +187,7 @@ organizations can safeguard their digital lives with ease and confidence.
 Future Scope
 As we conclude this phase of our project, it is essential to consider the future scope 
 and potential avenues for further development. Our project, "Monolith," has shown 
-promise in addressing the digital security needs of everyday individuals and smallscale organizations. Here, we outline the prospects and areas of improvement that 
+promise in addressing the digital security needs of everyday individuals and small-scale organizations. Here, we outline the prospects and areas of improvement that 
 can enhance the project's impact.
 1. Database Optimization: One key area for future development lies in database 
 infrastructure. While our custom database implementation has served our purposes 
@@ -209,7 +209,7 @@ This includes optimizing the application for mobile platforms and maintaining
 consistency across different devices and environments.
 5. Collaboration and Open Source Initiatives: We recognize the value of 
 collaboration and community involvement. In the future, we intend to explore 
-partnerships and open source initiatives to harness collective expertise and 
+partnerships and open-source initiatives to harness collective expertise and 
 contributions. Collaborations with like-minded individuals and organizations will 
 help us further strengthen Monolith's capabilities.
 6. Ongoing Security Enhancements: The digital security landscape is dynamic, 
