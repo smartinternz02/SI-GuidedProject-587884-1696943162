@@ -217,9 +217,6 @@ with new threats emerging regularly. To stay ahead of evolving security challeng
 we are committed to implementing continuous security enhancements. This 
 involves keeping Monolith's security measures up to date, adopting the latest 
 protocols, and proactively addressing emerging threats.
-In summary, the future of "Monolith" is promising and filled with opportunities for 
-growth and refinement. This project report perspective underscores our dedication 
-to democratizing digital security for all. 
 
 ### Appendix
 
